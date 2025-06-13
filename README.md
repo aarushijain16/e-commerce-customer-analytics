@@ -66,7 +66,7 @@ The analytical approach for this project was multi-faceted, focusing on turning 
 * **Strategic Recommendations by Market**:
   * **For the UK Market (Dominant)**: Recommend marketing focused on convenience, everyday value, and breadth of product range. Suggest SMS marketing or frequent email newsletters with new arrivals or sales. Product offerings should ensure a wide variety of affordable, frequently purchased items, with opportunities to bundle smaller items to increase AOV.
   * **For High-Value International Markets (e.g., Singapore, Lebanon, Hong Kong, Japan)**: Recommend tailoring marketing to emphasize premium products, exclusivity, and quality. Focus on showcasing high-value items, special collections, or personalised shopping experiences, utilising digital marketing channels with strong visual appeal. Product offerings should feature higher-priced items, luxury goods, or unique products, with clear and customer-friendly shipping/return policies.
-  * ** For Other International Markets (e.g., Germany, France)**: Suggest a hybrid marketing approach, levergaing strong local efforts while exploring opportunities to increase AOV through bundled offers or promoting mid-range premium items. Product offerings should be a balanced mix of core products and some mid-range premium options.
+  * **For Other International Markets (e.g., Germany, France)**: Suggest a hybrid marketing approach, levergaing strong local efforts while exploring opportunities to increase AOV through bundled offers or promoting mid-range premium items. Product offerings should be a balanced mix of core products and some mid-range premium options.
 
 ## Tools and Technologies:
 * **Programming Language**: Python
@@ -81,4 +81,15 @@ The analytical approach for this project was multi-faceted, focusing on turning 
   * 'geopy.geocoders.Nominatim' (for geocoding country names)
   * 'itertools.combinations' , 'collections.Counter' , 're' (for various data processing tasks)
 * **Development Environment**: Google Colab
-* 
+
+## Link to Code: []
+ * *Note*: This project uses a publicly available dataset from Kaggle, allowing for full reproductibility of the analysis.
+
+## Visualisations:
+* **Revenue Breakdown by Country**
+* **Sales Trends over Time**
+* **Customer Spending Distribution**
+* **Customer Segmentation Visualisations**
+* **Acquisition Rate**
+* **Retention Rate**
+* **Churn Rate**
