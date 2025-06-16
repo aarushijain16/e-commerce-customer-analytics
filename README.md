@@ -85,7 +85,7 @@ The analytical approach for this project was multi-faceted, focusing on turning 
 ## Link to Dataset and Code: 
 * [Dataset](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Online%20Retail%20Data%20Set_1.xlsx)
 * [Code](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/3fa137bfe5e2c077d7196a1ffe757ad599421bf6/Online_Retail_Store_.ipynb)
- * *Note*: This project uses a publicly available dataset from Kaggle, allowing for full reproductibility of the analysis.
+  * *Note*: This project uses a publicly available dataset from Kaggle, allowing for full reproductibility of the analysis.
 
 ## Visualisations:
 * **Figure 1**: [AOV by Top 10 Countries](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/AOV%20by%20Top%2010%20Countries.png)
