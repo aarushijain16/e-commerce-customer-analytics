@@ -87,10 +87,19 @@ https://github.com/aarushijain16/e-commerce-customer-analytics/blob/3fa137bfe5e2
  * *Note*: This project uses a publicly available dataset from Kaggle, allowing for full reproductibility of the analysis.
 
 ## Visualisations:
-* **Revenue Breakdown by Country**
-* **Sales Trends over Time**
-* **Customer Spending Distribution**
-* **Customer Segmentation Visualisations**
-* **Acquisition Rate**
-* **Retention Rate**
-* **Churn Rate**
+* **Figure 1**: [AOV by Top 10 Countries](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/AOV%20by%20Top%2010%20Countries.png)
+* **Figure 2**: [AQO by Top 10 Countries](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/AQO%20by%20Top%2010%20Countries.png)
+* **Figure 3**: [Bottom 10 Countries by Number of Retained Customers](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Bottom%2010%20Countries%20by%20Number%20of%20Retained%20Customers.png)
+* **Figure 4**: [Bottom 10 Customers by Total Spending](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Bottom%2010%20Customers%20by%20Total%20Spending.png)
+* **Figure 5**: [Customer Retention Rate by Acquisition Cohort](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Customer%20Retention%20Rate%20by%20Acquisition%20Cohort.png)
+* **Figure 6**: [Monthly Customer Acquisition](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Monthly%20Customer%20Acquisition.png)
+* **Figure 7**: [Quantity Outliers Returns](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Quantity_Outlier_Returns.png)
+* **Figure 8**: [Quantity Outliers Sales](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Quantity_Outlier_Sales.png)
+* **Figure 9**: [Quarterly Customer Acquisition]( https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Quarterly%20Customer%20Acquisition.png)
+* **Figure 10**: [RFM Customer Segments](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/RFM%20Customer%20Segments.png)
+* **Figure 11**: [Revenue by Acquisition Cohort and Order Month](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Revenue%20by%20Acquisition%20Cohort%20and%20Order%20Month.png)
+* **Figure 12**: [Top 10 Countries by Number of Retained Customers](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Top%2010%20Countries%20by%20Number%20of%20Retained%20Customers.png)
+* **Figure 13**: [Top 10 Customers by Total Spending](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Top%2010%20Customers%20by%20Total%20Spending.png)
+* **Figure 14**: [Top and Bottom 5 Customers by Spending Segment](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Top%20and%20Bottom%205%20Customers%20by%20Spending%20Segment.png)
+* **Figure 15**: [Unit Price Outliers Returns](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Unit_Price_Outlier_Returns.png)
+* **Figure 16**: [Unit Price Outlier Sales](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Unit_Price_Outlier_Sales.png)
