@@ -82,8 +82,9 @@ The analytical approach for this project was multi-faceted, focusing on turning 
   * 'itertools.combinations' , 'collections.Counter' , 're' (for various data processing tasks)
 * **Development Environment**: Google Colab
 
-## Link to Code: 
-https://github.com/aarushijain16/e-commerce-customer-analytics/blob/3fa137bfe5e2c077d7196a1ffe757ad599421bf6/Online_Retail_Store_.ipynb
+## Link to Dataset and Code: 
+[Dataset](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/main/Online%20Retail%20Data%20Set_1.xlsx)
+[Code](https://github.com/aarushijain16/e-commerce-customer-analytics/blob/3fa137bfe5e2c077d7196a1ffe757ad599421bf6/Online_Retail_Store_.ipynb)
  * *Note*: This project uses a publicly available dataset from Kaggle, allowing for full reproductibility of the analysis.
 
 ## Visualisations:
